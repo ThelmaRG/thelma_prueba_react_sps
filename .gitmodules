@@ -1,0 +1,6 @@
+[submodule "users-mobile"]
+	path = users-mobile
+	url = https://github.com/ThelmaRG/users-mobile.git
+[submodule "users-web"]
+	path = users-web
+	url = https://github.com/ThelmaRG/users-web.git
